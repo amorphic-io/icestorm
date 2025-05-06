@@ -1,2 +1,10 @@
+# Misc
+/.direnv
+/.envrc
+
+# Bazel
+bazel-*
+MODULE.bazel.lock
+
 icestorm-win32.zip
 icestorm-win32/
